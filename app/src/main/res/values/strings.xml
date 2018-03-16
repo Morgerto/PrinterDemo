@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrinterDemo</string>
+    <string name="print_picture">打印图片</string>
+    <string name="print_doc">打印文档</string>
+</resources>
